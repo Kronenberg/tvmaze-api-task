@@ -1,0 +1,46 @@
+.tv-shows-table {
+    max-width: 100%;
+    width: 100%;
+    background-color: #fff;
+    color: #fff;
+    border-color: grey;
+    border-collapse: collapse;
+    background-color: transparent;
+    margin-bottom: 20px;
+    table-layout: fixed;
+}
+
+.tv-shows-table th {
+    background-color: #607d8b;
+    color: #f6f3f7;
+    border: 0;
+    cursor: pointer;
+    text-align: left;
+}
+
+.tv-shows-table tr {
+    border-bottom: 0;
+    cursor: pointer;
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    height: 50px;
+    font-size: 24px;
+}
+
+.tv-shows-table tr:hover {
+    background: grey;
+}
+
+.tv-shows-table td img {
+    width: 107px;
+    height: 100px;
+    display: inline-block;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.green {
+    color: #a3cf06;
+}
+

@@ -6,12 +6,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-### First step: yarn
-### Second step: yarn start
+* **yarn** 
+* **yarn start** 
 
 ## Authors
 
-* **Michael Konchakovskyy** 
+Michael Konchakovskyy
 
 ## License
 

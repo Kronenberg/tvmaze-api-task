@@ -9,7 +9,7 @@ Task for the interview
 * **yarn** 
 * **yarn start** 
 
-## Authors
+## Author
 
 Michael Konchakovskyy
 
